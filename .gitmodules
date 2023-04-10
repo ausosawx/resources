@@ -1,0 +1,9 @@
+[submodule "typst/Typstdocs-Zh-CN-"]
+	path = typst/Typstdocs-Zh-CN-
+	url = https://github.com/Zuttergutao/Typstdocs-Zh-CN-.git
+[submodule "tex/tex-by-topic-cn"]
+	path = tex/tex-by-topic-cn
+	url = https://github.com/CTeX-org/tex-by-topic-cn.git
+[submodule "tex/the-texbook-cn"]
+	path = tex/the-texbook-cn
+	url = https://github.com/seuliang/the-texbook-cn.git
